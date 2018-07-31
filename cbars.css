@@ -1,0 +1,36 @@
+s {
+  background: black;
+  color: black;
+  text-decoration: none;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+s:hover {
+  color: white;
+}
+sg {
+  background: grey;
+  color: grey;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+sg:hover {
+  color: black;
+}
+sw {
+  background: white;
+  color: white;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+sw:hover {
+  color: black;
+}
+s-blur {
+  color: transparent;
+  text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+s-blur:hover {
+  color: black;
+  text-shadow: none;
+}
