@@ -1,5 +1,5 @@
 # uncensor-bars
-A small CSS stylesheet for dynamic hide/show censor bars.
+A small CSS stylesheet for dynamic hide/show censor bars. Example here: https://charliecharlieo-o.github.io/uncensor-bars/
 
 ## Description
 While browsing a website I came across an interesting overload of the HTML *\<s\>* element and made it look like a censor bar.
