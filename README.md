@@ -2,8 +2,10 @@
 A small CSS stylesheet for dynamic hide/show censor bars. Example here: https://charliecharlieo-o.github.io/uncensor-bars/
 
 ## Description
-While browsing a website I came across an interesting overload of the HTML *\<s\>* element and made it look like a censor bar.
+While browsing a website I came across an interesting overload of the HTML *\<s\>* element that made it look like a censor bar.
 If you don't know what a censor bar is you can read it here: https://en.wikipedia.org/wiki/Censor_bars
+
+I took that as inspiration to create the following simple styles, all done with CSS.
 
 ## Usage
 Using the stylesheet is as easy as linking the *cbars.css* file and using the following custom elements:
